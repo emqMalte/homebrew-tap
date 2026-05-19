@@ -13,6 +13,11 @@ tap "emqmalte/tap"
 brew "<formula>"
 ```
 
+## Formulae
+
+<!-- project_table_start -->
+<!-- project_table_end -->
+
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
